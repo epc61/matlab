@@ -75,6 +75,7 @@ varargout{1} = handles.output;
 
 
 % --- Executes on button press in pushbutton1.
+%This button will plot the FBD
 function pushbutton1_Callback(hObject, eventdata, handles)
 % hObject    handle to pushbutton1 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
